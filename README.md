@@ -1,2 +1,0 @@
-# CatapultPolicy
-Catapults privacy policy
